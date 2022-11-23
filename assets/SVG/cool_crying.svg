@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Gravit.io -->
+
+<svg
+   style="isolation:isolate"
+   viewBox="839 558 36 36"
+   width="36pt"
+   height="36pt"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="cool_crying.svg"
+   inkscape:export-filename="cool_crying.png"
+   inkscape:export-xdpi="512"
+   inkscape:export-ydpi="512"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     showgrid="false"
+     inkscape:zoom="17.270833"
+     inkscape:cx="23.97105"
+     inkscape:cy="23.97105"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <g
+     id="g12">
+    <path
+       d=" M 875 576 C 875 585.941 866.941 594 857 594 C 847.059 594 839 585.941 839 576 C 839 566.059 847.059 558 857 558 C 866.941 558 875 566.059 875 576 Z "
+       fill="rgb(255,204,77)"
+       id="path2" />
+    <path
+       d=" M 866.335 581.629 C 866.157 581.468 865.891 581.458 865.7 581.6 C 865.661 581.629 861.778 584.5 857 584.5 C 852.234 584.5 848.338 581.629 848.3 581.6 C 848.109 581.458 847.843 581.47 847.665 581.629 C 847.488 581.789 847.448 582.053 847.571 582.257 C 847.7 582.472 850.788 587.5 857 587.5 C 863.212 587.5 866.301 582.472 866.429 582.257 C 866.552 582.052 866.513 581.789 866.335 581.629 Z "
+       fill="rgb(102,69,0)"
+       id="path4" />
+    <path
+       d=" M 863 574 L 867 574 L 867 593 L 863 592.954 L 863 574 Z  M 847 593 L 851 592.954 L 851 574 L 847 574 L 847 593 Z "
+       fill="rgb(93,173,236)"
+       id="path6" />
+    <ellipse
+       vector-effect="non-scaling-stroke"
+       cx="857"
+       cy="592"
+       rx="18"
+       ry="2"
+       fill="rgb(93,173,236)"
+       id="ellipse8" />
+    <path
+       d=" M 840.24 569.018 C 840.48 569.257 841.678 569.975 841.917 570.693 C 842.157 571.41 842.637 575.477 844.075 576.674 C 845.558 577.906 851.152 577.448 852.223 576.914 C 854.62 575.719 854.914 572.383 855.338 570.693 C 855.577 569.736 857.015 569.736 857.015 569.736 C 857.015 569.736 858.453 569.736 858.693 570.692 C 859.117 572.383 859.413 575.719 861.808 576.913 C 862.88 577.448 868.474 577.907 869.959 576.675 C 871.395 575.478 871.874 571.411 872.114 570.693 C 872.352 569.976 873.552 569.258 873.791 569.019 C 874.032 568.78 874.032 567.823 873.791 567.583 C 873.312 567.105 867.657 566.679 861.568 567.344 C 860.353 567.477 859.891 567.822 857.014 567.822 C 854.139 567.822 853.675 567.476 852.461 567.344 C 846.376 566.678 840.72 567.104 840.24 567.582 C 840.001 567.821 840.001 568.779 840.24 569.018 Z "
+       fill-rule="evenodd"
+       fill="rgb(41,47,51)"
+       id="path10" />
+  </g>
+</svg>
